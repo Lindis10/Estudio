@@ -1,0 +1,2 @@
+Veronica = "sombrita"
+print(Veronica)
