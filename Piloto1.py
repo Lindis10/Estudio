@@ -1,2 +1,2 @@
-Veronica = "sombrita"
-print(Veronica)
+veronica = "sombrita"
+print(veronica)

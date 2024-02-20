@@ -1,7 +1,9 @@
 resultado_operacion = "BAD_PARAMS"
 
 match resultado_operacion:
-    case "ERROR":
+# Nos sirve para validar posibles valores para una variable
+
+    case "ERROR": # identificar los posibles valores y que hacer si se cumple
         print("Ups, hubo un error en el proceso")
     case "EXITO":
         print("proceso satisfactorio")
